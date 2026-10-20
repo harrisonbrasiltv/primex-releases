@@ -1,2 +1,2 @@
-# primex-releases
-Instaladores e atualizações do Prime X
+# Prisma Cut
+Instaladores e atualizações do Prisma Cut (by harrinogueira).
